@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#14BDAC</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--***********************************-->
+    <color name="o_color">#F2EBD3</color>
+    <color name="x_color">#545454</color>
+    <color name="background_color">#14BDAC</color>
+    <color name="separator_color">#0DA192</color>
+    <color name="orange">#EF3B02</color>
+
+</resources>
